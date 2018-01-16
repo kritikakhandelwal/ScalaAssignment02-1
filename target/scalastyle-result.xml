@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+ <file name="/home/knoldus/IdeaProjects/ScalaAssignment2-01/src/main/scala/edu/knoldus/UsingOperations.scala">
+  <error column="26" line="13" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="29" line="14" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="4" line="17" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="4" line="20" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="2" line="23" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
+  <error column="2" line="16" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+ </file>
+</checkstyle>
